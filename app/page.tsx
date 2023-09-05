@@ -17,7 +17,7 @@ export default function Home() {
       <div className="py-1 flex justify-center mt-4">
         <a
           href="https://beta.nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className="rounded-lg border border-transparent px-5 pt-4 pb-5 max-w-md transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/50"
+          className="bg-neutral-900 rounded-xl border border-transparent px-5 pt-4 pb-5 max-w-md transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/50"
           target="_blank"
           rel="noopener noreferrer"
         >
